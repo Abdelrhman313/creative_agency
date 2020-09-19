@@ -19,6 +19,9 @@ body{
 }
 
 /* Start Nice Scroll Edit */
+. nicescroll-rails-hr{
+    dispaly: none !important;
+}
 .nicescroll-rails{
     background: rgba(255, 255, 255, 0.5) !important;
 }
