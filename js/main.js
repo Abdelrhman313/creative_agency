@@ -153,4 +153,10 @@ $(document).ready(() => {
 
     //Run WOW Script
     new WOW().init();
+
+    //init nice scroll
+    $("body").niceScroll({
+        cursorcolor:"#39d47a",
+        cursorwidth:"16px"
+    });
 })
