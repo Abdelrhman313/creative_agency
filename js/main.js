@@ -158,7 +158,6 @@ $(document).ready(() => {
     $("body").niceScroll({
         cursorcolor:"#39d47a",
         cursorwidth:"12px",
-        cursorminheight:50,
         zindex: "1000"
     });
 })
