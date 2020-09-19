@@ -157,6 +157,8 @@ $(document).ready(() => {
     //init nice scroll
     $("body").niceScroll({
         cursorcolor:"#39d47a",
-        cursorwidth:"16px"
+        cursorwidth:"12px",
+        cursorminheight:50,
+        zindex: "1000"
     });
 })
